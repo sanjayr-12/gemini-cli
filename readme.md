@@ -4,18 +4,20 @@ A simple command-line tool to interact with the Gemini API. Ask anything, and ge
 
 ## Installation
 
-To install the `ask-gemini` CLI tool globally, run the following command in your terminal:
+To install the `ask-gemini-cli` CLI tool globally, run the following command in your terminal:
 
 ```bash
-npm install -g ask-gemini
+npm install -g ask-gemini-cli
 ```
 
 ## Usage
+
 Once installed, you can use the `ask-gemini` command to interact with the Gemini AI. Simply run the following command:
 
 ```bash
 ask-gemini
 ```
+
 After running the command, you will be prompted to enter a question. Once you provide the prompt, the tool will return a response right in your terminal.
 
 ```bash
