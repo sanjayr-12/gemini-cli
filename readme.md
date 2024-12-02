@@ -16,7 +16,6 @@ Once installed, you can use the `ask-gemini` command to interact with the Gemini
 ```bash
 ask-gemini
 ```
-
 After running the command, you will be prompted to enter a question. Once you provide the prompt, the tool will return a response right in your terminal.
 
 ```bash
